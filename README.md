@@ -48,7 +48,9 @@ I am a researcher and developer exploring the intersection of deep learning, low
 
 * 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project. 
 
----
-<div align="center">
-  <sub><i>"Building the bridge between hardware logic and digital aesthetics."</i></sub>
-</div>
+### 📊 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dafeiju111&show_icons=true&theme=react&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=586069&hide_border=true" alt="dafeiju111's GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dafeiju111&theme=react&background=00000000&title=36BCF7&fire=36BCF7&ring=36BCF7&text=586069&currStreakLabel=36BCF7&side_border=false" alt="dafeiju111's GitHub Streak" height="160" />
+</p>
