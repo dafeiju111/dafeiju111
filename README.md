@@ -44,9 +44,13 @@ I am a researcher and developer exploring the intersection of deep learning, low
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
 ### 🌙 Featured Project
 
-* 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project. 
+* 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project.
+
+---
 
 ### 📊 GitHub Metrics
 
