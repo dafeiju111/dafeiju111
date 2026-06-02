@@ -16,7 +16,9 @@ I am a researcher and developer exploring the intersection of deep learning, low
 
 ### 🛠️ Tech Stack & Toolbelt
 
-✨ **Languages**
+### 🛠️ Tech Stack & Toolbelt
+
+#### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,19 +27,19 @@ I am a researcher and developer exploring the intersection of deep learning, low
 ![](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white)
 ![](https://img.shields.io/badge/Verilog_HDL-FFB900?style=for-the-badge&logo=intel&logoColor=black)
 
-🧠 **Frameworks (AI & Data Science)**
+#### Frameworks (AI & Data Science)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-🌐 **Frameworks (Web Development)**
+#### Frameworks (Web Development)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-⚙️ **Infrastructure & Tools**
+#### Infrastructure & Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,7 +48,7 @@ I am a researcher and developer exploring the intersection of deep learning, low
 
 ### 🌙 Featured Project
 
-* 🚀 **[Hougetsu (🌙 Moonlight Club)](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project. *(Active Development)*
+* 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project. 
 
 ---
 <div align="center">
