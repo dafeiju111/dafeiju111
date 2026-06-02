@@ -1,7 +1,7 @@
 # 👋 Hello, I'm dafeiju111
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Deep%20Learning%20%26%20Wireless%20Communications%3BHardware-Software%20Co-design%3BIndependent%20Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Deep%20Learning%20%26%20Wireless%20Communications%3BHardware-Software%20Co-design%3BFull-stuck%20Engineer" alt="Typing SVG" />
 </p>
 
 ### 📖 About Me
