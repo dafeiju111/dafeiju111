@@ -48,7 +48,7 @@ I am a researcher and developer exploring the intersection of deep learning, low
 
 ### 🌙 Featured Project
 
-* 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: A text and highlight processing tool empowered by generative AI and advanced application logic, serving as the foundation for an upcoming independent visual novel project.
+* 🚀 **[Hougetsu](https://github.com/dafeiju111/Hougetsu)**: An AI-powered reader for novels, news, and more. It helps you read stories in other languages without barriers by using AI to provide accurate translations and detailed explanations.
 
 ---
 
