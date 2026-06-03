@@ -8,9 +8,9 @@
 
 I am a researcher and developer exploring the intersection of deep learning, low-level system optimization, and modern web applications.
 
-* 🔬 **Research & Engineering:** Focus on applying Deep Learning to wireless signal processing and exploring hardware-software co-design.
-* 🎨 **Creative Pursuits:** Building independent, AI-driven productivity tools with a strong emphasis on blending elegant UI/UX design with robust backend logic.
-* 💻 **Workflow:** Highly proficient in customizing efficient, terminal-driven development environments within Linux.
+* 🔬 **Research & Engineering:** Applying deep learning to wireless signals and exploring hardware-software co-design.
+* 🎨 **Creative Pursuits:** Building AI productivity tools with clean UI/UX and solid backend logic.
+* 💻 **Workflow:** Keep my development environment simple, clean, and optimized for speed.
 
 ---
 
